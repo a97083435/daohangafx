@@ -5,8 +5,8 @@
   links: 
     - title: YouTube
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 一个专注于软件安装，科学上网教学的频道！
+      url: https://www.youtube.com/
+      description: 世界上最大的视频网站
     - title: 资源博客
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
@@ -49,7 +49,23 @@
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    
+    - title: 文叔叔
+      logo: 
+      url: https://www.wenshushu.cn/
+      description: 传临时文件,大文件、永不限速
+    - title: 网络剪贴板
+      logo: 
+      url: https://netcut.cn/
+      description: 提供数据暂存和传送服务
+    - title: 5ber eSIM卡
+      logo: 
+      url: https://esim.5ber.com/?language=en-US&utm_source=kjgx&utm_medium=kjgx&utm_campaign=kjgx
+      description: 让国行手机也有eSIM功能
+    - title: 可可影视
+      logo: 
+      url: https://www.keke1.app/
+      description: 拥有海量影视资源，涵盖了各大主流影视平台和影视网站的视频内容
+
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
